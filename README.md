@@ -1,4 +1,4 @@
-# BI Dashboards
+# Data Mining techniques
 
 [Customer Insight report](https://github.com/khanhbrandy/BI_Dashboard/blob/master/Customer%20Insight%20report/Customer%20insight.pdf) <br/>
 
